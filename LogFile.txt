@@ -1,0 +1,4 @@
+Storage Server(127.0.0.1) has successfully sent its Accessible Paths through port : 5566
+Recieved read Request from client(127.0.0.1) through the port 32788
+Recieved Read Response from the client(127.0.0.1) through the port 32788
+Read operation from Trails/Hi/nijesh.txt successful
